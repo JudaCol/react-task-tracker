@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Study Solidity",
+      "day": "April 10th at 10:00 am",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Go to sleep",
+      "day": "April 15th at 10:00 pm",
+      "reminder": true
+    },
+    {
+      "text": "Test",
+      "day": "Today",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
